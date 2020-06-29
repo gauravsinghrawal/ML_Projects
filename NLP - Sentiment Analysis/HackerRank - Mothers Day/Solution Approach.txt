@@ -1,0 +1,8 @@
+Have followed the basic approach to reach the score i am submitting as final:
+
+1. Read and Cleaned the data using some basic NLP data cleaning techniques.
+2. Cleaned the Retweet column.
+3. Create text and meta features from the cleaned text column.
+4. Trained multiple models using feature pipeline and hyper parameters.
+5. Produced final predictions.
+
